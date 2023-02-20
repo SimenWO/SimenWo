@@ -3,7 +3,14 @@
 
 ### Hello, folks! 👋
 
-My name is Simen Østensnen and i'm working as a cloud enginmeer. I'm from Norway and currently working at TietoEvry.
+My name is Simen Østensen and i'm working as a Cloud Engineer.
+
+- 🇳🇴 I'm from Norway
+- 👔 Working at Devoteam M Cloud
+- 🧑🏽‍💻 Current role: Senior Cloud & DevOps Engineer
+- 🌱 Currently learning more about GitHub Actions
+- ☁️ My speciality are Azure and IaC with Bicep
+- 📫 How to reach me: simen.ostensen@gmail.com
 
 ### 🔭 Currently working on
 
@@ -11,8 +18,9 @@ My name is Simen Østensnen and i'm working as a cloud enginmeer. I'm from Norwa
 
 ### 📈 GitHub Stats
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=synthwave)
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=simenwo&theme=dark&background=000000)](https://git.io/streak-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=simenwo&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **SimenWO/SimenWo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
