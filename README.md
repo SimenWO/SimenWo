@@ -9,7 +9,7 @@ My name is Simen Østensen and i'm working as a Cloud Engineer.
 - 🇳🇴 I'm from Norway
 - 👔 Working at Devoteam M Cloud
 - 🧑🏽‍💻 Current role: Senior Cloud & DevOps Engineer
-- 🌱 Currently learning more about GitHub Actions
+- 🌱 Currently learning more PSDocs, MKDocs and PSRule
 - ☁️ My speciality are Azure and IaC with Bicep
 - 📫 How to reach me: simen.ostensen@gmail.com
 
