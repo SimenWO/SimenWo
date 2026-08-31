@@ -1,5 +1,4 @@
-
-![Header](https://user-images.githubusercontent.com/8777407/222248617-3edc5025-13f5-4356-b639-8c6a0a9c732b.png)
+![Header](https://github.com/user-attachments/assets/ff904b83-976c-4ca8-9218-9b033fa1c85b)
 
 ### Hello, folks! 👋
 
@@ -7,9 +6,9 @@
 My name is Simen Østensen and i'm working as a Cloud Engineer.
 
 - 🇳🇴 I'm from Norway
-- 👔 Working at Devoteam M Cloud
-- 🧑🏽‍💻 Current role: Senior Cloud & DevOps Engineer
-- 🌱 Currently learning more PSDocs, MKDocs and PSRule
+- 👔 Working at Fortytwo
+- 🧑🏽‍💻 Current role: Senior Cloud Engineer
+- 🌱 Currently learning more about AI 
 - ☁️ My speciality are Azure and IaC with Bicep
 - 📫 How to reach me: simen.ostensen@gmail.com
 
